@@ -1,0 +1,11 @@
+.main-wrapper {
+  width: 1024px;
+  margin: 0 auto; }
+  .main-wrapper .sidebar {
+    float: left;
+    width: 30%; }
+  .main-wrapper .container {
+    width: 67%;
+    float: right; }
+
+/*# sourceMappingURL=style.css.map */
